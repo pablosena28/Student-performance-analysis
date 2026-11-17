@@ -1,0 +1,14 @@
+{
+  "rows": 1000,
+  "columns": 10,
+  "original_columns": 8,
+  "missing_values": 0,
+  "duplicates": 0,
+  "math_mean": 66.09,
+  "reading_mean": 69.17,
+  "writing_mean": 68.05,
+  "overall_mean": 67.77,
+  "pass_all_60_pct": 60.3,
+  "completed_prep_n": 358,
+  "none_prep_n": 642
+}
